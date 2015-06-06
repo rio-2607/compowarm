@@ -1,4 +1,4 @@
-# compowarm
+# Compowarm
 Compose is a tool for defining and running complex applications with Docker. With Compose, you define a multi-container application in a single file named docker.yml, then spin your application up in a single command which does everything that needs to be done to get it running.
 
 But the drawback of Compose is that  all the containters you defined in docker.yml will be runned just only in one nodes.In other words,it cannot deploy your containers in multiple nodes.
